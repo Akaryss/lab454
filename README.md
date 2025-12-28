@@ -1,6 +1,6 @@
 # Лабораторная работа №4(5) - ASP.NET Core MVC (Identity & Testing)
 
-![Build and Test Status](https://github.com/ТВОЙ_ЛОГИН/РЕПОЗИТОРИЙ/actions/workflows/dotnet-build.yml/badge.svg)
+![Build and Test Status](https://github.com/Akaryss/Lab454/actions/workflows/dotnet-build.yml/badge.svg)
 
 ## Описание проекта
 Данное приложение представляет собой сервис объявлений, разработанный на платформе ASP.NET Core MVC с использованием Entity Framework Core.
