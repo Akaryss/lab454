@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4736E547-93CE-45FD-855B-9CD9008B7E9F}|..\\AdvertisementServiceMVC2.Tests\\AdvertisementServiceMVC2.Tests.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc2.tests\\advertisementsapicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\controllers\\advertisementsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:controllers\\advertisementsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4736E547-93CE-45FD-855B-9CD9008B7E9F}|..\\AdvertisementServiceMVC2.Tests\\AdvertisementServiceMVC2.Tests.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc2.tests\\testmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4736E547-93CE-45FD-855B-9CD9008B7E9F}|..\\AdvertisementServiceMVC2.Tests\\AdvertisementServiceMVC2.Tests.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc2.tests\\allcontrollerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4736E547-93CE-45FD-855B-9CD9008B7E9F}|..\\AdvertisementServiceMVC2.Tests\\AdvertisementServiceMVC2.Tests.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc2.tests\\advertisementservicemvc2.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\views\\advertisements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:views\\advertisements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\controllers\\advertisementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:controllers\\advertisementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\databaseinitializermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:databaseinitializermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\models\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:models\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\models\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:models\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\models\\advertisementservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:models\\advertisementservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\views\\advertisements\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:views\\advertisements\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\migrations\\advertisementservicecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:migrations\\advertisementservicecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|c:\\users\\msshv\\source\\repos3\\lab44\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D217AA-25DD-4467-82E4-9B679D262A4D}|Lab4.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdvertisementsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Controllers\\AdvertisementsApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdvertisementsApiController.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Controllers\\AdvertisementsApiController.cs",
+              "RelativeToolTip": "Controllers\\AdvertisementsApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:01:28.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdvertisementServiceMVC2.Tests",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC2.Tests\\AdvertisementServiceMVC2.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\AdvertisementServiceMVC2.Tests\\AdvertisementServiceMVC2.Tests.csproj",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC2.Tests\\AdvertisementServiceMVC2.Tests.csproj",
+              "RelativeToolTip": "..\\AdvertisementServiceMVC2.Tests\\AdvertisementServiceMVC2.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-28T18:57:53.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdvertisementsApiControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC2.Tests\\AdvertisementsApiControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\AdvertisementServiceMVC2.Tests\\AdvertisementsApiControllerTests.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC2.Tests\\AdvertisementsApiControllerTests.cs",
+              "RelativeToolTip": "..\\AdvertisementServiceMVC2.Tests\\AdvertisementsApiControllerTests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAArwCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:53:25.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Views\\Admin\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Views\\Admin\\EditUser.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EditUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-27T21:18:49.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdvertisementsController.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Controllers\\AdvertisementsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdvertisementsController.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Controllers\\AdvertisementsController.cs",
+              "RelativeToolTip": "Controllers\\AdvertisementsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T06:15:00.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T06:03:27.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllControllersTests.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC2.Tests\\AllControllersTests.cs",
+              "RelativeDocumentMoniker": "..\\AdvertisementServiceMVC2.Tests\\AllControllersTests.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC2.Tests\\AllControllersTests.cs",
+              "RelativeToolTip": "..\\AdvertisementServiceMVC2.Tests\\AllControllersTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T19:28:32.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestModels.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC2.Tests\\TestModels.cs",
+              "RelativeDocumentMoniker": "..\\AdvertisementServiceMVC2.Tests\\TestModels.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC2.Tests\\TestModels.cs",
+              "RelativeToolTip": "..\\AdvertisementServiceMVC2.Tests\\TestModels.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T19:30:35.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T21:04:48.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Views\\Advertisements\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Advertisements\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Views\\Advertisements\\Index.cshtml",
+              "RelativeToolTip": "Views\\Advertisements\\Index.cshtml",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAkwF8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-27T21:05:00.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Views\\Admin\\Users.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Users.cshtml",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Views\\Admin\\Users.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-27T21:14:50.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwD8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-27T21:15:35.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T19:08:30.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAkwJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T20:06:40.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseInitializerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\DatabaseInitializerMiddleware.cs",
+              "RelativeDocumentMoniker": "DatabaseInitializerMiddleware.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\DatabaseInitializerMiddleware.cs",
+              "RelativeToolTip": "DatabaseInitializerMiddleware.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:33:26.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Advertisement.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Models\\Advertisement.cs",
+              "RelativeDocumentMoniker": "Models\\Advertisement.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Models\\Advertisement.cs",
+              "RelativeToolTip": "Models\\Advertisement.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:33:58.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T06:15:36.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-17T20:06:09.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChatViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Models\\ChatViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ChatViewModel.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Models\\ChatViewModel.cs",
+              "RelativeToolTip": "Models\\ChatViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:20:23.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T06:03:50.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T06:05:21.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdvertisementServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Models\\AdvertisementServiceContext.cs",
+              "RelativeDocumentMoniker": "Models\\AdvertisementServiceContext.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Models\\AdvertisementServiceContext.cs",
+              "RelativeToolTip": "Models\\AdvertisementServiceContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T19:49:17.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "Models\\Favorite.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Models\\Favorite.cs",
+              "RelativeToolTip": "Models\\Favorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T06:05:27.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Views\\Advertisements\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Advertisements\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Views\\Advertisements\\Create.cshtml",
+              "RelativeToolTip": "Views\\Advertisements\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T05:58:30.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdvertisementServiceContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Migrations\\AdvertisementServiceContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AdvertisementServiceContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Migrations\\AdvertisementServiceContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AdvertisementServiceContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwJ4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T06:16:33.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAUwGEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T06:13:16.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\models\\advertisementservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:models\\advertisementservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\controllers\\advertisementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:controllers\\advertisementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\views\\advertisements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:views\\advertisements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\databaseinitializermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:databaseinitializermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\models\\advertisementphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:models\\advertisementphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\models\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:models\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AF7989-DB02-4FED-B108-BAB6EB9B3541}|AdvertisementServiceMVC.csproj|solutionrelative:models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T20:27:04.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T20:26:47.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T20:26:29.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:24:22.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdvertisementsController.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Controllers\\AdvertisementsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdvertisementsController.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Controllers\\AdvertisementsController.cs",
+              "RelativeToolTip": "Controllers\\AdvertisementsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwBAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:10:21.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:04:42.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdvertisementServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Models\\AdvertisementServiceContext.cs",
+              "RelativeDocumentMoniker": "Models\\AdvertisementServiceContext.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Models\\AdvertisementServiceContext.cs",
+              "RelativeToolTip": "Models\\AdvertisementServiceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:04:07.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-19T20:05:15.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Views\\Advertisements\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Advertisements\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Views\\Advertisements\\Index.cshtml",
+              "RelativeToolTip": "Views\\Advertisements\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T20:25:59.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:23:52.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Models\\Message.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Models\\Message.cs",
+              "RelativeToolTip": "Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:15:15.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdvertisementPhoto.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Models\\AdvertisementPhoto.cs",
+              "RelativeDocumentMoniker": "Models\\AdvertisementPhoto.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Models\\AdvertisementPhoto.cs",
+              "RelativeToolTip": "Models\\AdvertisementPhoto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:14:57.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseInitializerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\DatabaseInitializerMiddleware.cs",
+              "RelativeDocumentMoniker": "DatabaseInitializerMiddleware.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\DatabaseInitializerMiddleware.cs",
+              "RelativeToolTip": "DatabaseInitializerMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:06:40.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:02:19.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "Models\\Favorite.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Models\\Favorite.cs",
+              "RelativeToolTip": "Models\\Favorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:03:45.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:02:51.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Models\\Region.cs",
+              "RelativeDocumentMoniker": "Models\\Region.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Models\\Region.cs",
+              "RelativeToolTip": "Models\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:03:09.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Advertisement.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Models\\Advertisement.cs",
+              "RelativeDocumentMoniker": "Models\\Advertisement.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC\\Models\\Advertisement.cs",
+              "RelativeToolTip": "Models\\Advertisement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:03:25.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSshv\\source\\repos3\\Lab44\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4736E547-93CE-45FD-855B-9CD9008B7E9F}|..\\AdvertisementServiceMVC2.Tests\\AdvertisementServiceMVC2.Tests.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc2.tests\\advertisementservicemvc2.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4736E547-93CE-45FD-855B-9CD9008B7E9F}|..\\AdvertisementServiceMVC2.Tests\\AdvertisementServiceMVC2.Tests.csproj|c:\\users\\msshv\\source\\repos3\\advertisementservicemvc2.tests\\allcontrollerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdvertisementServiceMVC2.Tests",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC2.Tests\\AdvertisementServiceMVC2.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\AdvertisementServiceMVC2.Tests\\AdvertisementServiceMVC2.Tests.csproj",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC2.Tests\\AdvertisementServiceMVC2.Tests.csproj",
+              "RelativeToolTip": "..\\AdvertisementServiceMVC2.Tests\\AdvertisementServiceMVC2.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-28T19:22:39.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllControllersTests.cs",
+              "DocumentMoniker": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC2.Tests\\AllControllersTests.cs",
+              "RelativeDocumentMoniker": "..\\AdvertisementServiceMVC2.Tests\\AllControllersTests.cs",
+              "ToolTip": "C:\\Users\\MSshv\\source\\repos3\\AdvertisementServiceMVC2.Tests\\AllControllersTests.cs",
+              "RelativeToolTip": "..\\AdvertisementServiceMVC2.Tests\\AllControllersTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:22:03.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
