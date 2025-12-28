@@ -23,11 +23,14 @@ jobs:
         dotnet-version: 8.0.x
 
     - name: Restore dependencies
-      run: dotnet restore
+      # Указываем путь к проекту в папке Lab44
+      run: dotnet restore Lab44/Lab4.csproj
 
     - name: Build
-      run: dotnet build --no-restore --configuration Release
+      # Собираем основной проект
+      run: dotnet build Lab44/Lab4.csproj --no-restore --configuration Release
 
     - name: Run Unit Tests
-      # Мы указываем путь конкретно к проекту тестов, чтобы избежать ошибки Aborted на основном проекте
-      run: dotnet test AdvertisementServiceMVC2.Tests/AdvertisementServiceMVC2.Tests.csproj --no-build --verbosity normal
+      # Запускаем тесты, указывая путь к тестовому проекту
+      # Тестовый проект сам подтянет Lab44, так как у них есть связь
+      run: dotnet test AdvertisementServiceMVC2.Tests/AdvertisementServiceMVC2.Tests.csproj --configuration Release --verbosity normal
